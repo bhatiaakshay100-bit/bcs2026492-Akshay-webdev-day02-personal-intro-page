@@ -1,3 +1,4 @@
+<img width="1408" height="881" alt="Screenshot 2026-10-27 at 9 51 58 AM" src="https://github.com/user-attachments/assets/fa941f32-8e0c-453d-9b0b-bbcbb991604b" />
 # Personal Intro Page 🌐
 
 Welcome to my Personal Intro Page! This project is part of my Web Development Day 02 assignment.
